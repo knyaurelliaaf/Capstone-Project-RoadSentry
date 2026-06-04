@@ -82,6 +82,7 @@ Jalankan server:
 
 ```bash
 npm run dev
+```
 
 > Backend akan berjalan di `http://localhost:5000`
 
