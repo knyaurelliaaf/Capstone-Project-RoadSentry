@@ -5,11 +5,11 @@
 > Capstone Coding Camp 2026 — DBS Foundation | Tim CC26-PSU062
 > Tema: **Inclusive & Resilient Communities**
 
-Road-Sentry adalah platform web yang memungkinkan masyarakat melaporkan kerusakan jalan secara real-time, dilengkapi deteksi otomatis berbasis AI (YOLOv8) dan dasbor admin dengan visualisasi peta GIS untuk mendukung respons infrastruktur yang lebih cepat dan merata.
+Road-Sentry adalah platform web yang memungkinkan masyarakat melaporkan kerusakan jalan secara real-time, dilengkapi deteksi otomatis berbasis AI  dan dasboard admin dengan visualisasi peta GIS untuk mendukung respons infrastruktur yang lebih cepat dan merata.
 
 ---
 
-##  Tim
+##  Tim CC26-PSU062
 
 | Nama | ID | Path | Peran |
 |------|-----|------|-------|
