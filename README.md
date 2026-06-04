@@ -11,8 +11,8 @@ Road-Sentry adalah platform web yang memungkinkan masyarakat melaporkan kerusaka
 
 ##  Tim CC26-PSU062
 
-| Nama | ID | Path | Peran |
-|------|-----|------|-------|
+| Nama | ID | Path 
+|------|-----|------
 | Abdul Latif Dzuhri | CACC222D6Y0876 | AI Engineer 
 | Andhika Pratama Kurniawan | CACC222D6Y2564 | AI Engineer 
 | Prety Afriani | CFCC220D6X2808 | Full-Stack Web Developer  (Frontend)
